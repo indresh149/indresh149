@@ -84,3 +84,7 @@
     <img src="https://komarev.com/ghpvc/?username=indresh149">
 </a>
 <a href="https://github.com/indresh149?tab=followers"><img src="https://img.shields.io/github/followers/indresh149?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<p align="center">
+  <img width="200" height="100" src="https://i.gifer.com/TUAq.gif">
+</p>
