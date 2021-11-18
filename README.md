@@ -86,5 +86,5 @@
 <a href="https://github.com/indresh149?tab=followers"><img src="https://img.shields.io/github/followers/indresh149?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="center">
-  <img width="200" height="100" src="https://i.gifer.com/TUAq.gif">
+  <img width="200" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FTUAq&psig=AOvVaw2TEspC0KgS1MZG13vcsvzE&ust=1637355673116000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjGxKznovQCFQAAAAAdAAAAABAD">
 </p>
