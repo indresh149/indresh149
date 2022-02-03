@@ -23,8 +23,6 @@
 - Practising on <a href="https://www.codeforces.com/profile/indreshgoswami/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/indreshgoswami/">LinkedIn</a> 😇
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/indresh149/Actions/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🚀 Languages and Tools:
@@ -75,6 +73,9 @@
 
 <br/>
 <br/>
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/indresh149/Actions/blob/output/github-contribution-grid-snake.svg)
 
 ## Connect with me:
 <p align="left">
