@@ -74,7 +74,7 @@
 <br/>
 <br/>
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/indresh149/Actions/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ## Connect with me:
 <p align="left">
