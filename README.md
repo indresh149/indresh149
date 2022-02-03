@@ -12,11 +12,20 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[Git hub](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[Git hub](https://.com)**
 
 - 📫 How to reach me **indreshgoswami149@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/indreshgoswami/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Struggling on <a href="https://www.leetcode.com/indresh149/">LeetCode</a> 😍
+- Practising on <a href="https://www.codeforces.com/profile/indreshgoswami/">Codeforces</a> 🙃
+- Sharing updates on <a href="https://www.linkedin.com/in/indreshgoswami/">LinkedIn</a> 😇
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/indresh149/Actions/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🚀 Languages and Tools:
 
