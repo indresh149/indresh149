@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/indreshgoswami/"><img align="left" width="150" height="146" ></a>
+## Find me around the web 🌎 
 - Struggling on <a href="https://www.leetcode.com/indresh149/">LeetCode</a> 😍
 - Practising on <a href="https://www.codeforces.com/profile/indreshgoswami/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/indreshgoswami/">LinkedIn</a> 😇
