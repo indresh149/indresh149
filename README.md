@@ -20,7 +20,7 @@
 
 ## Find me around the web 🌎 
 - Struggling on <a href="https://www.leetcode.com/indresh149/">LeetCode</a> 😍
-- Practising on <a href="https://www.codeforces.com/profile/indreshgoswami/">Codeforces</a> 🙃
+- Practising on <a href="https://www.codeforces.com/profile/indresh139/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/indreshgoswami/">LinkedIn</a> 😇
 
 
