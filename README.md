@@ -93,6 +93,7 @@
 
 <a href = "https://www.linkedin.com/in/indreshgoswami/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/IndreshGoswami5"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.facebook.com/indreshgoswami5/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/indreshgoswami5/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCjHyzCYCy_rlzNhGEocGrYQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href = "https://discord.gg/zV3u3BxQ"><img src="https://img.icons8.com/color/50/000000/discord-new-logo.png"/></a>
