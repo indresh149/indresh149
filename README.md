@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:02569B,100:70A5FD&height=200&section=header&text=Indresh%20Goswami&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SDE%202%20%40%20PayRange%20%E2%80%A2%20Mobile%20%26%20Full-Stack&descAlignY=58&descSize=18" alt="Indresh Goswami"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:02569B,100:70A5FD&height=200&section=header&text=Indresh%20Goswami&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SDE%202%20at%20PayRange&descAlignY=60&descSize=20" alt="Indresh Goswami"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=indresh149&label=Profile%20views&color=7F52FF&style=flat-square" alt="Profile views"/>
-  <a href="https://github.com/indresh149?tab=followers"><img src="https://img.shields.io/github/followers/indresh149?label=Followers&style=flat-square&color=02569B" alt="Followers"/></a>
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-70A5FD?style=flat-square" alt="Open to collaborate"/>
 </p>
 
