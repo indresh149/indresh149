@@ -1,111 +1,146 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:02569B,100:70A5FD&height=200&section=header&text=Indresh%20Goswami&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SDE%202%20%40%20PayRange%20%E2%80%A2%20Mobile%20%26%20Full-Stack&descAlignY=58&descSize=18" alt="Indresh Goswami"/>
+</p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Indresh</h1>
-<h3 align="center">I'm a passionate Android Developer from India.</h3>
+<p align="center">
+  <a href="https://github.com/indresh149">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=70A5FD&center=true&vCenter=true&width=640&lines=Hey+there!+%F0%9F%91%8B+I'm+Indresh;I+ship+native+Android+apps+in+Kotlin+%F0%9F%A4%96;...and+cross-platform+apps+in+Flutter+%26+React+Native+%F0%9F%93%B1;...and+the+Node.js+backends+on+AWS+behind+them+%E2%98%81%EF%B8%8F;Think+more%2C+code+less+%F0%9F%A7%A0" alt="Typing intro"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://indresh149.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/indreshgoswami/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/indresh149/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/indresh139"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="mailto:indreshgoswami149@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=indresh149&label=Profile%20views&color=7F52FF&style=flat-square" alt="Profile views"/>
+  <a href="https://github.com/indresh149?tab=followers"><img src="https://img.shields.io/github/followers/indresh149?label=Followers&style=flat-square&color=02569B" alt="Followers"/></a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-70A5FD?style=flat-square" alt="Open to collaborate"/>
+</p>
+
+---
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying in **[Galgotias University](https://covid-19-tracker-e4bda.web.app/)**
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 💼 **SDE 2** at **PayRange**
+- 📱 Building **native Android (Kotlin)** and **cross-platform (Flutter, React Native)** apps that ship to production
+- ☁️ Working across the stack: **Node.js / TypeScript on AWS**, with **CI/CD** from commit to store release
+- 🎓 B.Tech CSE '24, Galgotias University
+- 📍 Noida, India
+- 🏋️ Gym, games and the occasional Codeforces round
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+</td>
+<td width="42%" valign="top">
 
-- 👨‍💻 All of my projects are available at **[Git hub](https://.com)**
+| | |
+|---|---|
+| 🔭 **Working on** | Payments & device apps at PayRange |
+| 🌱 **Exploring** | Kotlin Multiplatform, AI in apps |
+| 💬 **Ask me about** | Android, Flutter, AWS |
+| ⚡ **Fun fact** | 17k+ contributions and counting |
 
-- 📫 How to reach me **indreshgoswami149@gmail.com**
+</td>
+</tr>
+</table>
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+<details>
+<summary><b>👨‍💻 Click to see me as code</b></summary>
+<br/>
 
-## Find me around the web 🌎 
-- Struggling on <a href="https://www.leetcode.com/indresh149/">LeetCode</a> 😍
-- Practising on <a href="https://www.codeforces.com/profile/indresh139/">Codeforces</a> 🙃
-- Sharing updates on <a href="https://www.linkedin.com/in/indreshgoswami/">LinkedIn</a> 😇
+```kotlin
+data class Indresh(
+    val role: String = "SDE 2 @ PayRange",
+    val mobile: List<String> = listOf("Kotlin", "Jetpack Compose", "Flutter", "React Native"),
+    val backend: List<String> = listOf("Node.js", "TypeScript", "Express"),
+    val cloud: List<String> = listOf("AWS", "Firebase", "GitHub Actions", "Docker"),
+    val motto: String = "Think more, code less",
+) {
+    fun sayHi() = println("Thanks for dropping by! Let's build something together 🚀")
+}
+```
 
+</details>
 
+---
 
-## 🚀 Languages and Tools:
+## 🛠️ Tech Stack
 
-<p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="https://cplusplus.com/doc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-    <a href="https://www.typescriptlang.org/docs/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/typescript.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://www.anaconda.com/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </a>
+<table align="center">
+<tr>
+<td align="center" width="33%"><b>📱 Mobile</b></td>
+<td align="center" width="33%"><b>⚙️ Backend & Web</b></td>
+<td align="center" width="33%"><b>☁️ Cloud & DevOps</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,react&perline=3" alt="Mobile"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,express,js,java,mysql&perline=3" alt="Backend"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws,firebase,githubactions,docker,git,linux&perline=3" alt="Cloud"/></td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/indresh149/hackernews"><img src="https://github-readme-stats.vercel.app/api/pin/?username=indresh149&repo=hackernews&theme=tokyonight&hide_border=true" alt="hackernews"/></a>
+  <a href="https://github.com/indresh149/expenseapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=indresh149&repo=expenseapp&theme=tokyonight&hide_border=true" alt="expenseapp"/></a>
+  <a href="https://github.com/indresh149/expenseappbackend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=indresh149&repo=expenseappbackend&theme=tokyonight&hide_border=true" alt="expenseappbackend"/></a>
+  <a href="https://github.com/indresh149/personal_finance_visualizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=indresh149&repo=personal_finance_visualizer&theme=tokyonight&hide_border=true" alt="personal_finance_visualizer"/></a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) <a href="https://icons8.com/icon/04OFrkjznvcd/android-studio">Android Studio icon by Icons8</a> <a href="https://icons8.com/icon/40669/c++">C++ icon by Icons8</a> <a href="https://icons8.com/icon/40670/c-programming">C Programming icon by Icons8</a> <a href="https://icons8.com/icon/117121/pycharm">PyCharm icon by Icons8</a> <a href="https://icons8.com/icon/61466/intellij-idea">IntelliJ IDEA icon by Icons8</a> <a href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019">Visual Studio Code 2019 icon by Icons8</a><a href="https://icons8.com/icon/199gSvrFfCIJ/anaconda">Anaconda icon by Icons8</a><a href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019">Visual Studio Code 2019 icon by Icons8</a>-->
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/39d353/indresh149" alt="Contribution calendar"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=indresh149&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<details>
+<summary><b>📈 Click for more stats</b></summary>
 <br/>
 
 <p align="center">
-    <a href="https://github.com/indresh149/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Indresh Goswami's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=indresh149&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indresh149&theme=tokyonight" alt="Contribution graph"/>
 </p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/indresh149/github-readme-stats"><img alt="Indresh Goswami's Github Stats" src="https://github-readme-stats.vercel.app/api?username=indresh149&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="github-readme-stats"><img alt="Indresh Goswami's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indresh149&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/indresh149/github-readme-activity-graph"><img alt="Indresh Goswami's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=indresh149&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-## Watch my contributions get eaten by a snake 🐍
-
-![snake gif](https://github.com/indresh149/indresh149/blob/output/github-contribution-grid-snake.gif)
-
-<h3 align="start">hacktoberfest Badge 🔥👇🏻👇🏻👇🏻👇🏻</h3>
-
-[![@indresh149's Holopin board](https://holopin.io/api/user/board?user=indresh149)](https://holopin.io/@indresh149)
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indresh149" alt="indresh149" /></a> </p>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/indreshgoswami/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/IndreshGoswami5"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/indreshgoswami5/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCjHyzCYCy_rlzNhGEocGrYQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://discord.gg/zV3u3BxQ"><img src="https://img.icons8.com/color/50/000000/discord-new-logo.png"/></a>
-
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=indresh149">
-</a>
-<a href="https://github.com/indresh149?tab=followers"><img src="https://img.shields.io/github/followers/indresh149?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="center">
-  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=indresh149&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indresh149&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=indresh149&theme=tokyonight" alt="Repos per language"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=indresh149&theme=tokyonight" alt="Most commit language"/>
+</p>
+
+</details>
+
+---
+
+## 🐍 Contributions, Eaten by a Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indresh149/indresh149/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indresh149/indresh149/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/indresh149/indresh149/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,50:02569B,100:7F52FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=70" alt="Footer"/>
 </p>
